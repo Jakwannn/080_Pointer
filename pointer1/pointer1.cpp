@@ -16,6 +16,8 @@ public:
 
 int main()
 {
- 
+    mahasiswa mhs{ 1 }; // Object mhs
+    mhs.showNIM(); //Member Access Operator
+    
 }
 
